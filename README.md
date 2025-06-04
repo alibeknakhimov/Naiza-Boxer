@@ -7,6 +7,16 @@
 
 ---
 
+## 📷 Photos
+
+### Machine in use:
+![Naiza Boxer arcade machine](media/photos/boxer.jpg)
+
+### Schematic:
+![Hardware scheme](media/photos/scheme.jpg)
+
+---
+
 ## 🔥 Viral Reach
 
 Demo videos of Naiza Boxer gained over **500,000** and **100,000** views on TikTok:
@@ -85,17 +95,6 @@ Naiza-Boxer/
 │   └── videos/
 
 ```
-
----
-
-## 📷 Photos
-
-### Machine in use:
-![Naiza Boxer arcade machine](media/photos/boxer.jpg)
-
-### Schematic:
-![Hardware scheme](media/photos/scheme.jpg)
-
 ---
 
 ## 📬 Contact
