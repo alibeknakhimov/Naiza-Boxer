@@ -81,8 +81,7 @@ Naiza-Boxer/
 │       └── Schematic\_NAIZA\_DISPLAY.pdf
 │
 ├── media/
-│   ├── boxer.jpg
-│   ├── scheme.jpg
+│   ├── photos/
 │   └── videos/
 
 ```
@@ -92,10 +91,10 @@ Naiza-Boxer/
 ## 📷 Photos
 
 ### Machine in use:
-![Naiza Boxer arcade machine](media/boxer.jpg)
+![Naiza Boxer arcade machine](media/photos/boxer.jpg)
 
 ### Electrical layout or schematic:
-![Hardware scheme](media/scheme.jpg)
+![Hardware scheme](media/photos/scheme.jpg)
 
 ---
 
