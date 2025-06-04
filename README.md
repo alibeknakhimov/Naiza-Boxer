@@ -93,7 +93,7 @@ Naiza-Boxer/
 ### Machine in use:
 ![Naiza Boxer arcade machine](media/photos/boxer.jpg)
 
-### Electrical layout or schematic:
+### Schematic:
 ![Hardware scheme](media/photos/scheme.jpg)
 
 ---
