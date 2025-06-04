@@ -1,5 +1,5 @@
 
-# Naiza Boxer — Arcade Strength Tester Machine
+# 🥊Naiza Boxer — Arcade Strength Tester Machine
 
 **Naiza Boxer** is a fully functional arcade punching machine designed and built in Kazakhstan by a team of five. It allows users to compete on their punching power, with an LED display, sound effects, integrated payment systems, and a mechanical reset mechanism.
 
