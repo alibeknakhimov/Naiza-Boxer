@@ -57,6 +57,7 @@ Demo videos of Naiza Boxer gained over **500,000** and **100,000** views on TikT
 - `maincontroller_PCB.jpg` – 3D render of the board
 - `Gerber_NAIZA_CONTROLLER_PCB.zip` – Gerber files for manufacturing
 - `BOM_NAIZA_CONTROLLER.xlsx` – Bill of materials
+- **USB-to-UART programming** supported via dedicated header on the PCB
 
 ### Display Board
 - `Schematic_NAIZA_DISPLAY.pdf` – Full circuit diagram
@@ -64,7 +65,6 @@ Demo videos of Naiza Boxer gained over **500,000** and **100,000** views on TikT
 - `display_PCB.jpg` – 3D render of the board
 - `Gerber_NAIZA_DISPLAY_PCB.zip` – Gerber files for manufacturing
 - `BOM_NAIZA_DISPLAY.xlsx` – Bill of materials
-- **USB-to-UART programming** supported via dedicated header on the PCB
 
 ---
 
