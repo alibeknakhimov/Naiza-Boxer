@@ -74,8 +74,17 @@ Demo videos of Naiza Boxer gained over **500,000** and **100,000** views on TikT
 
 Naiza-Boxer/
 ├── firmware/
-│   └── src/
+│   └── main/
+│       └── audio.cpp
+│       └── audio.h
+│       └── config.h
+│       └── display.cpp
+│       └── display.h
+│       └── game_logic.cpp
+│       └── game_logic.h
 │       └── main.ino
+│       └── payment.cpp
+│       └── payment.h
 │
 ├── hardware/
 │   ├── controller-board/
@@ -96,11 +105,6 @@ Naiza-Boxer/
 │   └── videos/
 
 ```
----
-
-## 📬 Contact
-
-If you're interested in the project or want to discuss it in more detail, feel free to reach out or explore the code and schematics.
 
 ---
 
