@@ -1,7 +1,7 @@
 
 # 🥊Naiza Boxer — Arcade Strength Tester Machine
 
-**Naiza Boxer** is a fully functional arcade punching machine designed and built in Kazakhstan by a team of five. It allows users to compete on their punching power, with an LED display, sound effects, integrated payment systems, and a mechanical reset mechanism.
+**Naiza Boxer** is a fully functional arcade punching machine designed and built in Kazakhstan by a team of five. It allows users to compete on their punching power, with an address LED display, sound effects, integrated payment systems, and a mechanical reset mechanism.
 
 > I was 19 years old when I developed the firmware, designed the hardware, and led the electrical system architecture.
 
@@ -56,7 +56,7 @@ Demo videos of Naiza Boxer gained over **500,000** and **100,000** views on TikT
 - `PCB_NAIZA_CONTROLLER.pdf` – PCB trace view
 - `maincontroller_PCB.jpg` – 3D render of the board
 - `Gerber_NAIZA_CONTROLLER_PCB.zip` – Gerber files for manufacturing
-- `BOM_NAIZA_CONTROLLER.xlsx` – Bill of materials
+- `BOM_NAIZA_CONTROLLER.csv` – Bill of materials
 - **USB-to-UART programming** supported via dedicated header on the PCB
 
 ### Display Board
@@ -64,7 +64,7 @@ Demo videos of Naiza Boxer gained over **500,000** and **100,000** views on TikT
 - `PCB_boxDisp.pdf` – PCB trace view
 - `display_PCB.jpg` – 3D render of the board
 - `Gerber_NAIZA_DISPLAY_PCB.zip` – Gerber files for manufacturing
-- `BOM_NAIZA_DISPLAY.xlsx` – Bill of materials
+- `BOM_NAIZA_DISPLAY.csv` – Bill of materials
 
 ---
 
