@@ -3,7 +3,7 @@
 
 **Naiza Boxer** is a fully functional arcade punching machine designed and built in Kazakhstan by a team of five. It allows users to compete on their punching power, with an address LED display, sound effects, integrated payment systems, and a mechanical reset mechanism.
 
-> I was 19 years old when I developed the firmware, designed the hardware, and led the electrical system.
+> I was 19 years old when I developed the firmware, designed the hardware, and led the electrical system designing.
 
 ---
 
